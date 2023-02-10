@@ -28,6 +28,9 @@ Contribución
 Este proyecto es de código abierto y está disponible para su contribución. Si desea contribuir al proyecto, por favor siga estos pasos:
 
 1.Haga un fork del repositorio.
+
 2.Cree una rama para su contribución.
+
 3.Haga sus cambios en la rama creada.
+
 4.Haga un pull request a la rama principal.
