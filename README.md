@@ -1,4 +1,6 @@
 Quiz en React
+
+
 Este proyecto es una aplicación web de cuestionario desarrollada en React. Permite a los usuarios responder a una serie de preguntas y ver sus resultados al final.
 
 Instalación
