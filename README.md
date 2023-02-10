@@ -6,7 +6,7 @@ Para instalar y correr este proyecto en su computadora, siga estos pasos:
 
 1. Clone este repositorio en su computadora usando el siguiente comando:
 
-git clone https://github.com/[usuario]/quiz-en-react.git
+git clone https://github.com/Joaquinmv1/Quiz-Proyect.git
 
 2. Navegue hasta la carpeta del proyecto clonado:
 cd quiz
