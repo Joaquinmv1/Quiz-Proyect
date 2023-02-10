@@ -3,18 +3,11 @@ body {
   box-sizing: border-box;
   font-family: 'Raleway', sans-serif;
   font-family: 'Rubik', sans-serif;
-  /* background: rgb(238,174,202); */
   color: #fff;
-  /* background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1); */
   background-color: #070012;
   display: grid;
   place-content: center;
   height: 100vh;
-}
-
-.App {
-  text-align: center;
-  width: 100%;
 }
 
 .container-center {
@@ -26,14 +19,10 @@ body {
   width: 780px;
   min-height: 400px;
   background: rgb(238, 174, 202);
-  /* background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(173, 9, 232, 1) 0%, rgba(79, 0, 94, 1) 100%, rgba(242, 49, 200, 1) 100%); */
-  background-color: #FF9005;
-  background-image: linear-gradient(to right top, #ee9b00, #e5af00, #d7c400, #c3d800, #a8eb12);
   background: rgb(255, 196, 221);
   background: linear-gradient(90deg, rgba(255, 196, 221, 1) 17%, rgba(214, 123, 246, 1) 100%, rgba(0, 0, 0, 1) 100%);
   font-size: 2.5rem;
   color: #fff;
-
 }
 
 .question {
@@ -44,6 +33,10 @@ body {
 
 .container-answers {
   width: 100%;
+}
+
+.h2-top{
+  text-align: center;
 }
 
 .container-answers button {
@@ -64,8 +57,6 @@ body {
   flex-wrap: wrap;
   padding: 1rem;
   width: 750px;
-  /* background: rgb(238, 174, 202);
-    background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(173, 9, 232, 1) 0%, rgba(79, 0, 94, 1) 100%, rgba(242, 49, 200, 1) 100%); */
   background: rgb(255, 196, 221);
   background: linear-gradient(90deg, rgba(255, 196, 221, 1) 17%, rgba(214, 123, 246, 1) 100%, rgba(0, 0, 0, 1) 100%);
   margin: 1rem 0;
